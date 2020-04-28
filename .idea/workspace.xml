@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb22b3f6-37ad-4ad6-9438-b0b4cd1de153" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YzAjEOXXW8np4qK6NXAzvTOYlQ" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Application.ArraysList_Method2">
+    <configuration name="ArrayList_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArrayList_Practice" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysList_Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArraysList_Method2" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArraysList_Methods" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombainTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.CombainTwoArrays" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.Uniques" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArraysList_Method2" />
+        <item itemvalue="Application.ArraysList_Methods" />
+        <item itemvalue="Application.CombainTwoArrays" />
+        <item itemvalue="Application.Uniques" />
+        <item itemvalue="Application.ArrayList_Practice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb22b3f6-37ad-4ad6-9438-b0b4cd1de153" name="Default Changelist" comment="" />
+      <created>1583935181514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583935181514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Notifications" timestamp="1587739261645">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1587739261645" />
+    <state x="404" y="213" width="473" height="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587578552270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="404" y="213" width="473" height="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1587578552270" />
+    <state x="346" y="0" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1585775616653">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="346" y="0" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1280.680@0.0.1280.680" timestamp="1585775616653" />
+    <state x="104" y="116" width="487" height="480" key="DiffContextDialog" timestamp="1587406948589">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="104" y="116" width="487" height="480" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1587406948589" />
+    <state x="427" y="239" key="Github.CreateGistDialog" timestamp="1587510005392">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="427" y="239" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1587510005392" />
+    <state width="1225" height="149" key="GridCell.Tab.0.bottom" timestamp="1588096373817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="149" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588096373817" />
+    <state width="1225" height="149" key="GridCell.Tab.0.center" timestamp="1588096373816">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="149" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588096373816" />
+    <state width="1225" height="149" key="GridCell.Tab.0.left" timestamp="1588096373815">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="149" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588096373815" />
+    <state width="1225" height="149" key="GridCell.Tab.0.right" timestamp="1588096373817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="149" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588096373816" />
+    <state width="614" height="221" key="GridCell.Tab.1.bottom" timestamp="1587748264126">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="614" height="221" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587748264126" />
+    <state width="614" height="221" key="GridCell.Tab.1.center" timestamp="1587748264126">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="614" height="221" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587748264126" />
+    <state width="614" height="221" key="GridCell.Tab.1.left" timestamp="1587748264126">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="614" height="221" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587748264126" />
+    <state width="614" height="221" key="GridCell.Tab.1.right" timestamp="1587748264126">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="614" height="221" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587748264126" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1587769441126">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587769441126" />
+    <state x="267" y="123" key="com.intellij.ide.util.TipDialog" timestamp="1583950415724">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="267" y="123" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583950415724" />
+    <state x="9" y="19" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586740013535">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="9" y="19" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1586740013535" />
+    <state x="0" y="0" width="691" height="680" key="new project wizard" timestamp="1587669746203">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="691" height="680" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587669746203" />
+    <state x="213" y="147" key="run.anything.popup" timestamp="1587582478843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="213" y="147" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1587582478843" />
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1587565063424">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587565063424" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day01_FistJavaProgramming/GasReceipt.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day02_Variables/MyFavoriteBook.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day01_FistJavaProgramming/Home.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators/SingleStatement.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomePractice/PracticeSwitch.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/Practice_04_08_2020/ForLoop_Practice.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day21_MultiDimensionalArrays/Longest_Shortest_Words.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/Practice_04_08_2020/WhileLoop_Practice.java</url>
+          <line>6</line>
+          <properties class="OfficeHours.Practice_04_08_2020.WhileLoop_Practice" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spring2020B17_Java$SingleStatement.ic" NAME="SingleStatement Coverage Results" MODIFIED="1584469510657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day06_Shorthnd_LogicalOperators.*</FILTER>
+    </SUITE>
+  </component>
+</project>
