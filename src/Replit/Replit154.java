@@ -11,19 +11,24 @@ public class Replit154 {
 
     public static void isPalindrome(int num){
         //WRITE YOUR CODE HERE
-        Scanner scan = new Scanner(System.in);
-        int num1 = scan.nextInt();
-        num=num1;
-//        int num1
-//
-//
-//
-//        String name ="bank of America";
-//        String name2= reverse(name);
-//        System.out.println(name2);
-//
-//        System.out.println(name.equals(name2))
-
+        String text=""+num; //  int converted to String
+        String reversed="";
+        for (int i=text.length()-1; i>=0; i--){
+            reversed+=text.charAt(i);
+        }
+        boolean result= (text.equals(reversed)) ? true : false;
+        System.out.println(result);
+    }
 
     }
-}
+/*
+Complete a method isPalindrome() that will check if number is a palindrome.
+Print your result as a boolean (true or false).
+Example:
+input: 1001
+output: true
+
+Example:
+input: 1234
+output: false
+ */
