@@ -13,7 +13,7 @@ package day21_MultiDimensionalArrays;
 
 import java.text.DecimalFormat;
 
-public class ArajeNumber {
+public class ArrayNumber {
     public static void main(String[] args) {
         DecimalFormat DF = new DecimalFormat("0.00");
 
@@ -40,11 +40,11 @@ public class ArajeNumber {
                 [1,2,3] ==> 6
          */
 
-/*
+
         int[] arr2 = {1,2,2}; // 5/3 =
         System.out.println( 5/3 );
         System.out.println( 5/(double)3);
-*/
+
 
 
     }
