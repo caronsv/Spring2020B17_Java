@@ -22,6 +22,8 @@ int insVariable;
     }
 
     public static void main(String[] args) {
+
+        name="Sveta";
         System.out.println(name);
         System.out.println(tester1);
 

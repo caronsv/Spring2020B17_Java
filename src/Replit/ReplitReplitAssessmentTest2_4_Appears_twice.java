@@ -1,6 +1,6 @@
 package Replit;
 
-public interface ReplitAssessmentTest2_4_Appears_twice {
+public class ReplitReplitAssessmentTest2_4_Appears_twice {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
@@ -11,11 +11,11 @@ public interface ReplitAssessmentTest2_4_Appears_twice {
      * @return
      */
     public static boolean appearsTwice(String target, String sentence) {
-       int count=0;
+        int count=0;
         while (sentence.contains(target)){
             sentence=sentence.replaceFirst(target,"");
             count++;
-                }
+        }
 
         return(count==2)?true: false;
     }

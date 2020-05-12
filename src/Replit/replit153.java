@@ -15,8 +15,6 @@ public class replit153 {
 
     public static void printUniqueWords(String[] words) {
         //WRITE YOUR CODE HERE
-
-
         for(String each2: words){
             int count = 0 ;
             for(String each   :  words){
@@ -27,9 +25,13 @@ public class replit153 {
             if(count == 1){
                 System.out.println(each2);
             }
+
+
+
         }
 
-    }
+         }
+
 
         }
 
